@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkia7S.webp",
+            "title": "Fortune Tiger 1",
+            "text_Content_": "In the world of business and finance, the name "Fortune Tiger" has been stirring up curiosity and interest. With its enigmatic aura, Fortune Tiger has emerged as a symbol of prosperity, success, and opportunity"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkiY22.webp",
+            "title": "Fortune Tiger 2",
+            "text_Content_": "This article delves into the essence of Fortune Tiger, exploring its history, significance, and the various ways it has influenced different cultures across the world"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJki5rl.webp",
+            "title": "Fortune Tiger 3",
+            "text_Content_": "Fortune Tiger is deeply rooted in Chinese culture, where the tiger has long been a symbol of power, strength, and good fortune. In Chinese mythology, tigers are often associated with protection and warding off evil spirits"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkiR14.webp",
+            "title": "Fortune Tiger 4",
+            "text_Content_": "The concept of a Fortune Tiger likely stems from the belief that having a tiger's image or representation can bring good luck and prosperity to a person or their business endeavors"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkiABf.webp",
+            "title": "Fortune Tiger 5",
+            "text_Content_": "The symbolism of Fortune Tiger goes beyond its association with strength and power. It also represents courage, determination, and a fearless attitude, all qualities that are highly regarded in both personal and professional pursuits"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkiTLG.webp",
+            "title": "Fortune Tiger 6",
+            "text_Content_": "In business and finance, Fortune Tiger is often considered a symbol of luck and financial success. Many business owners and entrepreneurs display tiger-themed decorations or artwork in their offices or establishments, believing that it will attract prosperity and success"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkizIn.webp",
+            "title": "Fortune Tiger 7",
+            "text_Content_": "While its origins lie in Chinese culture, Fortune Tiger's influence has transcended borders and is now recognized and embraced worldwide. In various Asian cultures, the tiger holds similar symbolic significance, making it a popular motif in art, architecture, and even clothing"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkiIXs.webp",
+            "title": "Fortune Tiger 8",
+            "text_Content_": "In the realm of astrology, the tiger is one of the twelve animals of the Chinese zodiac, associated with specific personality traits and characteristics. People born in the Year of the Tiger are believed to be courageous, ambitious, and confident, further emphasizing the positive attributes associated with Fortune Tiger"
         }
     ]
 }
