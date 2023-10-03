@@ -19,7 +19,7 @@
         {
             "image_link": "https://iili.io/JJkia7S.webp",
             "title": "Fortune Tiger 1",
-            "text_Content_": "In the world of business and finance, the name "Fortune Tiger" has been stirring up curiosity and interest. With its enigmatic aura, Fortune Tiger has emerged as a symbol of prosperity, success, and opportunity"
+            "text_Content_": "In the world of business and finance, the name Fortune Tiger has been stirring up curiosity and interest. With its enigmatic aura, Fortune Tiger has emerged as a symbol of prosperity, success, and opportunity"
         },
         {
             "image_link": "https://iili.io/JJkiY22.webp",
